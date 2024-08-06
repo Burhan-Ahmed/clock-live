@@ -1,0 +1,25 @@
+{
+  "name": "clock-live",
+  "version": "1.0.2",
+  "description": "A package for providing the current time in various countries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "time",
+    "timezone",
+    "clock",
+    "live",
+    "worldtime",
+    "moment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.45"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
